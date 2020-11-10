@@ -20,3 +20,6 @@ node rt.js
 node follow.js
 
 Enjoy.
+
+
+TODO: improvements
